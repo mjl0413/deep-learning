@@ -1,13 +1,6 @@
-# 《神经网络与深度学习》课程练习
+# 同济大学《深度学习》课程
 
-书籍信息：[神经网络与深度学习](https://nndl.github.io/)
-
-欢迎大家补充练习题目。
-
-### 环境设定
-本次作业需要首先安装 anaconda3 下载地址 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/ ， 
-tensorflow 2.0
-pytorch >0.4
+2351867 毛经纶
 
 ## Exercise 
 
